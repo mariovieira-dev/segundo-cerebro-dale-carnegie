@@ -71,8 +71,15 @@ Tornar-me especialista em comunicação com base nas metodologias de Dale Carneg
 ![print](prints/pergunta-03.png)
 
 *** Finalizando com Materiais ***
-[Mapa mental](materiais/mapa-mental.png)
-[Slides](materiais/slides.pdf)
+[Mapa mental]
+(materiais/mapa01.png)
+(materiais/mapa02.png)
+(materiais/mapa03.png)
+(materiais/mapa04.png)
+(materiais/mapa05.png)
+(materiais/mapa06.png)
+[Slides]
+(materiais/slide.pdf)
 
 Link do meu NotebookLM: https://notebook.google.com/notebook/9d3f8f03-698f-4d7f-afdf-ec7574eee9a6
 
