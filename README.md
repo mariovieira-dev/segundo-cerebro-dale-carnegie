@@ -11,10 +11,10 @@ https://napratica.org.br/noticias/dale-carnegie-conheca-a-historia
 Minhas fontes são videos e do youtube e alguns sites que gosto de acompanhar relacionados as obras e biografia de Dale Carnegie.
 
 ## Diretriz de comportamento
-[Tornar-me especialista em comunicação com base nas metodologias de Dale Carnegie, para aplicar em conversas, trabalho e liderança.]
+Tornar-me especialista em comunicação com base nas metodologias de Dale Carnegie, para aplicar em conversas, trabalho e liderança.
 
 ## Perguntas e respostas
-### 1. [Quais os princípios para fazer as pessoas gostarem de você?]
+### 1. Quais os princípios para fazer as pessoas gostarem de você?
 **Resposta (Os principais ensinamentos extraídos de suas obras e treinamentos incluem:
 
 * **Demonstrar interesse genuíno pelas pessoas**: O ponto central da filosofia de Carnegie é voltar a atenção para o outro[3][4]. Ele afirmava que é possível fazer mais amigos em dois meses interessando-se sinceramente pelas pessoas do que em dois anos tentando fazer com que elas se interessem por você[4][5].
@@ -26,7 +26,7 @@ Minhas fontes são videos e do youtube e alguns sites que gosto de acompanhar re
 
 ![print](prints/pergunta-01.png)
 
-### 2. [Como criticar sem ofender?]
+### 2. Como criticar sem ofender?
 **Resposta (* **Comece com um elogio ou apreciação sincera**: Antes de abordar uma falha, reconheça o que a pessoa já fez de positivo[1][2]. Iniciar a conversa valorizando pontos fortes reduz a postura defensiva e torna o interlocutor mais receptivo à crítica[3].
 * **Evite dizer diretamente "você está errado" e evite discussões**: Apontar erros de forma categórica ou confrontar abertamente fere a autoestima do indivíduo e gera resistência imediata[4]. Como lembra Carnegie, *"a única maneira de ganhar uma discussão é evitando-a"*[4][7]. Em vez de acusar, busque pontos de concordância e use frases diplomáticas como *"Eu compreendo o seu ponto de vista"*[8][9].
 * **Fale sobre os seus próprios erros antes de criticar**: Demonstrar que você também já cometeu equívocos semelhantes ajuda a humanizar a conversa e diminui o peso da correção[10].
@@ -36,8 +36,7 @@ Minhas fontes são videos e do youtube e alguns sites que gosto de acompanhar re
 
 ![print](prints/pergunta-02.png)
 
-## Perguntas e respostas
-### 3. [Como aplico isso numa reunião de trabalho?]
+### 3. Como aplico isso numa reunião de trabalho?
 **Resposta (### 1\. Antes da Reunião (Preparação e Foco)
 
 * **Aplique o filtro das 4 perguntas antes de convocar a equipe**: Em vez de reunir as pessoas para "discutir o que deu errado" e andar em círculos[1][2], adote a estrutura de reuniões inspirada na obra de Carnegie[2][3]. Exija que o responsável pelo tema traga previamente respondido:
